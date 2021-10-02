@@ -1,22 +1,26 @@
-### Hello Internet 👋
+# Hello Internet, I'm Putra 👋
 
 <p align="center">
-  <img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/design/discover/pixel-art/desktop/pixelart_P4a_438x450.gif" width="50px" height="50px">
-  <br><br>
-  <samp>
-I'm Putra, a student from Singapore. I like to be part of various programming projects to keep me busy. Occasionally I will dump personal and school projects on my GitHub page so if you are interested, follow me!
-  </samp>
-<br><br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=aliffputra"> <img src=https://img.shields.io/badge/LinkedIn-0077B5?page_id="https://www.linkedin.com/in/aliffputra/"style=for-the-badge&logo=linkedin&logoColor=white> <img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://aliffputra.github.io/>
+<img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/design/discover/pixel-art/desktop/pixelart_P4a_438x450.gif" width="100px" height="100px">
 </p>
 
-<!---
-- 👋 Hi, I’m @AliffPutra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## I'm a Student
+<samp>
+- Currently a year 2 Cyber & Network Security Student at the Institute of Technical Education<br>
+- Looking to learn and improve my programming skills by contributing to various projects here<br>
+- Always building fun little projects to keep myself entertained
+</samp>
 
-AliffPutra/AliffPutra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My GitHub Stats
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=aliffputra"> <img src=https://img.shields.io/github/watchers/AliffPutra/AliffPutra.svg>
+<br><br><br>
+![Aliff Putra's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=AliffPutra&show_icons=true&theme=dark)
+<br><br>
+![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=AliffPutra&theme=dark)
+
+## Connect with me
+<br>
+<a href="https://www.linkedin.com/in/aliffputra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://open.spotify.com/user/8hevpfzwv2y596em6qygwqkn4?si=7d05a149ed434cb6"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://steamcommunity.com/profiles/76561199077181432/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
