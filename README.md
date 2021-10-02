@@ -8,7 +8,7 @@ I'm Putra. A student from Singapore. I like to make p to keep me busy. Occasiona
      <br><br>Contact me on <a href="https://www.linkedin.com/in/aliff-putra-a716a8201/">Linkedln</a>
   </samp>
 <br><br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=aliffputra" alt="Visitors Counter">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=aliffputra" alt="Visitors Counter"><img src="https://img.shields.io/website?url=https%3A%2F%2Faliffputra.github.io%2F">
 </p>
 
 <!---
