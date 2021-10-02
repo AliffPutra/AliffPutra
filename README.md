@@ -1,7 +1,7 @@
 ### Hello Internet 👋
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adobe.com%2Fin%2Fcreativecloud%2Fdesign%2Fdiscover%2Fpixel-art.html&psig=AOvVaw2fUGdrHiAMCVDlOE9ObXRT&ust=1633235487443000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJiXwrnyqvMCFQAAAAAdAAAAABAP" width="40px">
+  <img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/design/discover/pixel-art/desktop/pixelart_P4a_438x450.gif" width="40px">
   <br><br>
   <samp>
 I'm Putra. A student from Singapore. I like to design and develop websites to keep me busy. Occasionally I will dump personal and school projects on my page so if you are interested, follow me!
