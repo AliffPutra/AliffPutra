@@ -6,7 +6,7 @@
 
 ## I'm a Student
 <samp>
-- Currently a Year 2 Cyber & Network Security Student at the Institute of Technical Education<br>
+- Year 2 Cyber & Network Security Student at the Institute of Technical Education<br>
 - Looking to learn and improve my programming skills by contributing to various projects here<br>
 - Always building fun little projects to keep myself entertained
 </samp>
@@ -24,3 +24,5 @@
 <a href="https://www.linkedin.com/in/aliffputra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://open.spotify.com/user/8hevpfzwv2y596em6qygwqkn4?si=7d05a149ed434cb6"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561199077181432/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+
+<---! its 1am lmao, if you're reading this, I am watching you >.> ---->
