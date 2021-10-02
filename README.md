@@ -25,4 +25,4 @@
 <a href="https://open.spotify.com/user/8hevpfzwv2y596em6qygwqkn4?si=7d05a149ed434cb6"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561199077181432/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
-<---! its 1am lmao, if you're reading this, I am watching you >.> ---->
+<!--- its 1am lmao, if you're reading this, I am watching you >.> ---->
