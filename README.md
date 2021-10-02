@@ -7,7 +7,7 @@
 I'm Putra. A student from Singapore. I like to make p to keep me busy. Occasionally I will dump personal and school projects on my page so if you are interested, follow me!
   </samp>
 <br><br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=aliffputra"
+    <img src="https://visitor-badge.glitch.me/badge?page_id=aliffputra">
 </p>
 
 <!---
