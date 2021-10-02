@@ -5,7 +5,6 @@
   <br><br>
   <samp>
 I'm Putra. A student from Singapore. I like to make p to keep me busy. Occasionally I will dump personal and school projects on my page so if you are interested, follow me!
-     <br><br>Connect with me on <img src="https://img.shields.io/badge/-Linkedln-lightgrey=https://www.linkedin.com/in/aliff-putra-a716a8201/">
   </samp>
 <br><br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=aliffputra" <img src="https://img.shields.io/website?url=https%3A%2F%2Faliffputra.github.io%2F">
