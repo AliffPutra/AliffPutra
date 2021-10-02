@@ -15,9 +15,9 @@
 
 <img src="https://camo.githubusercontent.com/6d3eb0a675dbfd75b3b8aa2de04518ec1b5f82fd061b3c2fe937d3385e220f49/68747470733a2f2f696d672e736869656c64732e696f2f776562736974652d75702d646f776e2d677265656e2d7265642f687474702f6d6f6e69702e6f72672e737667"> <img src=https://img.shields.io/github/watchers/AliffPutra/AliffPutra.svg> <img src="https://visitor-badge.glitch.me/badge?page_id=aliffputra">
 <br><br>
-![Aliff Putra's GitHub stats](https://readme-stats-AliffPutra.vercel.app/api?username=AliffPutra&show_icons=true&theme=dark)
+![Aliff Putra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliffPutra&count_private=true&theme=dark&show_icons=true)
 <br><br>
-![Top Languages](https://readme-stats-AliffPutra.vercel.app/api/top-langs/?username=AliffPutra&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliffPutra&layout=compact&theme=dark&langs_count=10)
 
 ## Connect with me
 <br>
