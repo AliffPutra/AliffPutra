@@ -4,10 +4,10 @@
   <img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/design/discover/pixel-art/desktop/pixelart_P4a_438x450.gif" width="50px" height="50px">
   <br><br>
   <samp>
-I'm Putra, a student from Singapore. I like to be part of various programming projects to keep me busy. Occasionally I will dump personal and school projects on my page so if you are interested, follow me!
+I'm Putra, a student from Singapore. I like to be part of various programming projects to keep me busy. Occasionally I will dump personal and school projects on my GitHub page so if you are interested, follow me!
   </samp>
 <br><br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=aliffputra">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=aliffputra"> <img src=https://img.shields.io/badge/LinkedIn-0077B5?page_id="https://www.linkedin.com/in/aliffputra/"style=for-the-badge&logo=linkedin&logoColor=white> <img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://aliffputra.github.io/>
 </p>
 
 <!---
