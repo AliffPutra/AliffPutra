@@ -13,7 +13,7 @@
 
 ## My GitHub Stats
 
-<img src="https://img.shields.io/website?down_color=darkred&down_message=down&style=for-the-badge&up_color=darkgreen&up_message=up&url=https%3A%2F%2Faliffputra.github.io%2F"> ![GitHub watchers](https://img.shields.io/github/watchers/AliffPutra/AliffPutra?color=darkgreen&style=for-the-badge) ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AliffPutra&label=Visitor_Count&color=darkgreen&style=for-the-badge)
+<a href="https://aliffputra.github.io/"><img src="https://img.shields.io/website?down_color=darkred&down_message=down&style=for-the-badge&up_color=darkgreen&up_message=up&url=https%3A%2F%2Faliffputra.github.io%2F"> ![GitHub watchers](https://img.shields.io/github/watchers/AliffPutra/AliffPutra?color=darkgreen&style=for-the-badge) ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AliffPutra&label=Visitor_Count&color=darkgreen&style=for-the-badge) </a>
 <br><br>
 ![Aliff Putra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliffPutra&count_private=true&theme=dark&show_icons=true)
 <br><br>
