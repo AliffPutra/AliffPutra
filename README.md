@@ -17,7 +17,7 @@
 <br><br>
 ![Aliff Putra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliffPutra&count_private=true&theme=dark&show_icons=true)
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliffPutra&layout=compact&theme=dark&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliffPutra&layout=compact&theme=dark&langs_count=8)
 
 ## Connect with me
 <br>
