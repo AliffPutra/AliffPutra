@@ -14,7 +14,7 @@
 <h2 align="center"><samp>My GitHub Stats</samp></h2>
 
 <p align="center">
-<a href="https://aliffputra.github.io/"><img src="https://img.shields.io/website?down_color=darkred&down_message=down&style=for-the-badge&up_color=darkgreen&up_message=up&url=https%3A%2F%2Faliffputra.github.io%2F"></a> <a href="https://aliffputra.github.io/"><img src="https://img.shields.io/github/watchers/AliffPutra/AliffPutra?color=darkgreen&style=for-the-badge"></a> <a href="https://aliffputra.github.io/"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=AliffPutra&label=Visitor_Count&color=darkgreen&style=for-the-badge"></a></p>
+<a href="https://aliffputra.github.io/"><img src="https://img.shields.io/website?down_color=darkred&down_message=down&style=for-the-badge&up_color=darkgreen&up_message=up&url=https%3A%2F%2Faliffputra.github.io%2F"></a> <img src="https://img.shields.io/github/watchers/AliffPutra/AliffPutra?color=darkgreen&style=for-the-badge"> <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=AliffPutra&label=Visitor_Count&color=darkgreen&style=for-the-badge"></p>
 <br>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=AliffPutra&theme=dracula&custom_title=Putra's%20Contribution%20Graph&bg_color=DDDDDD00&color=FFFFFF&line=DD2727&point=00000000&area=true&area_color=7D7D7D&hide_border=true"></img></p>
