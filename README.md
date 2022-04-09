@@ -6,8 +6,7 @@
 
 <h2 align="center"><samp>About Me</samp></h2>
 <samp>
-- Born & Raised in Singapore <br>
-- Cyber & Network Security Student at the Institute of Technical Education <br>
+- Based in Singapore <br>
 - Looking to collaborate on Open Source Projects <br>
 </samp>
 
